@@ -1,0 +1,21 @@
+```gitignore
+# CLion
+.idea/
+
+# Build
+cmake-build-*/
+build/
+
+# Executáveis
+*.exe
+*.out
+
+# Objetos
+*.o
+*.obj
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
