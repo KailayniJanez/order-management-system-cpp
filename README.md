@@ -36,4 +36,5 @@ Windows (CLion)
 
 ## Autora
 Kailayni Rodrigues Janez
+
 Graduanda em Ciência da Computação - UFSCar
